@@ -101,7 +101,7 @@ document the manipulations or analyses that were carried out on those data.
 guidelines for how to write a good readMe file, along with an adaptable template.
 
 ## Sorting
-Bad values often sort to the bottom or top of the column. For example, if your data should be numeric, then alphabetical and null data
+Not so good values often sort to the bottom or top of the column. For example, if your data should be numeric, then alphabetical and null data
 will group at the ends of the sorted data. Sort your data by each field, one at a time. Scan through each column, but pay the most
 attention to the top and the bottom of a column. 
 If your dataset is well-structured and does not contain formulas, sorting should never affect the integrity of your dataset.
